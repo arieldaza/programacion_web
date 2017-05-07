@@ -4,8 +4,9 @@
 3. JavaScript( JQuery )
 4. Bootstrap ( HTML, Css, Js )
 5. Programación PHP
-6. POO en PHP5
-7. Mvc
-8. Framework MCV ( CodeIgniter )
-9. HMVC ( CodeIgniter )
-10. Patrones de diseño
+6. Ajax ( javascript , JQuery )
+7. POO en PHP5
+8. Mvc
+9. Framework MCV ( CodeIgniter )
+10. HMVC ( CodeIgniter )
+11. Patrones de diseño
