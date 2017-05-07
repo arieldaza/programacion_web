@@ -1,0 +1,11 @@
+0. HTML
+1. Css
+2. Java Script
+3. JavaScript( JQuery )
+4. Bootstrap ( HTML, Css, Js )
+5. Programación PHP
+6. POO en PHP5
+7. Mvc
+8. Framework MCV ( CodeIgniter )
+9. HMVC ( CodeIgniter )
+10. Patrones de diseño
